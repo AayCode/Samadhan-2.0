@@ -1,0 +1,72 @@
+{
+    "editor.formatOnSave": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/package.json"
+            ],
+            "url": "https://json.schemastore.org/package.json"
+        },
+        {
+            "fileMatch": [
+                "/tsconfig*.json"
+            ],
+            "url": "https://json.schemastore.org/tsconfig"
+        },
+        {
+            "fileMatch": [
+                "/server/db.json"
+            ],
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "students": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {
+                                    "type": "string"
+                                },
+                                "name": {
+                                    "type": "string"
+                                },
+                                "email": {
+                                    "type": "string",
+                                    "format": "email"
+                                },
+                                "course": {
+                                    "type": "string"
+                                },
+                                "year": {
+                                    "type": "number",
+                                    "minimum": 1,
+                                    "maximum": 6
+                                },
+                                "gpa": {
+                                    "type": "number",
+                                    "minimum": 0,
+                                    "maximum": 10
+                                }
+                            },
+                            "required": [
+                                "id",
+                                "name",
+                                "email",
+                                "course",
+                                "year",
+                                "gpa"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "students"
+                ]
+            }
+        }
+    ]
+}

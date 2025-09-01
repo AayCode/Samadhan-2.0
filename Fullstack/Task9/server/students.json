@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "tXOA5U6N",
+      "name": "Aaysha Mansuri",
+      "email": "aaysha@example.com",
+      "course": "CS",
+      "year": 3,
+      "gpa": 8.7
+    },
+    {
+      "id": "5BcYtmB9",
+      "name": "Neha Sharma",
+      "email": "neha@example.com",
+      "course": "IT",
+      "year": 2,
+      "gpa": 8.2
+    },
+    {
+      "id": "qtH7QE5F",
+      "name": "Rahul Verma",
+      "email": "rahul@example.com",
+      "course": "ECE",
+      "year": 4,
+      "gpa": 7.9
+    },
+    {
+      "id": "co51ApTd",
+      "name": "Aqsa Mansuri",
+      "email": "aqsa@example.com",
+      "course": "CSE",
+      "year": 2,
+      "gpa": 9.6
+    }
+  ]
+}
