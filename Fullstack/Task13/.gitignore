@@ -1,0 +1,22 @@
+# --- Ignore everything inside backend ---
+backend/*
+
+# --- But allow all Task folders ---
+!backend/Task*/
+
+# Allow everything inside Task folders
+!backend/Task*/**
+ 
+# --- Node.js specific ignores (for all tasks) ---
+backend/Task*/node_modules/
+backend/Task*/dist/
+backend/Task*/build/
+backend/Task*/.env
+backend/Task*/.env.local
+backend/Task*/npm-debug.log*
+backend/Task*/yarn-debug.log*
+backend/Task*/yarn-error.log*
+
+# --- System files ---
+.DS_Store
+Thumbs.db
