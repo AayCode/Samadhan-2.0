@@ -22,14 +22,14 @@ samadhan-2.0/
 │ ├──Task6/ # Profile card component
 │ ├──Task7/ # Counter + Live text preview
 | ├──Task8/ # To-Do list (local state only)
-| ├──Task10/ # Styled product vard list
+| ├──Task10/ # Styled product card list
 | └──Task12 # To-Do app (with node backend)
 |
 ├── Fullstack
 │ ├── Task9/ # Student directory (backend + frontend)
 │ ├── Task11/ # Student CRUD API
 │ ├── Task13 # Notes app (full-stack CRUD)
-│ └── Task17/ # API to update student details (PUT)
+│ └── Task17/ # Real-Time Chat App
 |
 |
 yaml
@@ -39,16 +39,21 @@ Copy code
 
 ## 📑 Tasks
 
-1. [Task 1 - Print Student Details from an Object](backend/task1/README.md)  
-2. [Task 2 - Enhanced Student Details](backend/task2/README.md)  
-3. [Task 3 - Student Marks Calculator](backend/task3/README.md)  
-4. [Task 4 - API returning "Hello, World!"](backend/task4/README.md)  
-5. [Task 5 - API returning Student List in JSON](backend/task5/README.md)  
-6. [Task 6 - API to Add a New Student (POST)](backend/task6/README.md)  
-7. [Task 7 - API to Update Student Details (PUT)](backend/task7/README.md)  
-8. [Task 8 - API to Delete a Student (DELETE)](backend/task8/README.md)  
-9. [Task 9 - API with Express Router](backend/task9/README.md)  
-10. [Task 10 - API with Middleware](backend/task10/README.md)  
+1. [Task 1 - Print Student Details from an Object](Backend/Task1/README.md)  
+2. [Task 2 - Find Highest Marks from an Array](Backend/Task2/README.md)  
+3. [Task 3 - Student Marks Calculator](Backend/Task3/README.md)  
+4. [Task 4 - API returning "Hello, World!"](Backend/Task4/README.md)  
+5. [Task 5 - API returning Student List in JSON](Backend/task5/README.md)  
+6. [Task 6 - Profile Card Component](Frontend/Task6/README.md)  
+7. [Task 7 - Counter + Live Text Preview](Frontend/Task7/README.md)  
+8. [Task 8 - To-Do List (locla state only](Frontend/task8/README.md)  
+9. [Task 9 - Student Directory (backend + frontend)](Fullstack/Task9/README.md)  
+10. [Task 10 - Styled Product Card List](Frontend/Task10/README.md)
+11. [Task 11 -  Student CRUD API](Fullstack/Task11/README.md)  
+12. [Task 12 - To-Do App (with node backend)](Backend/Task12/README.md)  
+13. [Task 13 - Notes app (full-stack CRUD)](Fullstack/Task13/README.md)  
+14. [Task 14 - Backend-only Auth](Backend/Task14/README.md)  
+17. [Task 17 - Real-Time Chat App](Fullstack/Task17/README.md)  
 
 ---
 
