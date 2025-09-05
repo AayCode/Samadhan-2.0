@@ -64,19 +64,22 @@ General steps to run a task:
 1. Navigate to the task folder:
    ```bash
    cd <backend,frontend,fullstack>/taskX
-If the task uses Node.js only:
+---If the task uses Node.js only:
 
 bash
 Copy code
 node filename.js
-If the task is an Express API:
+
+
+
+---If the task is an Express API:
 
 bash
 Copy code
 npm install
 node server.js   # or node student_server.js
 
-👨‍💻 Author
+---👨‍💻 Author
 Team ByteSquad
 Hackathon Participant @ Samadhan 2.0 🚀
 
