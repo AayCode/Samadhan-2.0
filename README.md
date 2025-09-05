@@ -79,6 +79,13 @@ Copy code
 npm install
 node server.js   # or node student_server.js
 
+---
+# Video Link
+https://youtu.be/HKFW5wud2e4
+
+# Presentation ppt link
+https://docs.google.com/presentation/d/12KNY2joxq0RaJ3aZbTR3_N2Xp8fabZBj/edit?usp=drivesdk&ouid=112425611780471823731&rtpof=true&sd=true
+
 ---👨‍💻 Author
 Team ByteSquad
 Hackathon Participant @ Samadhan 2.0 🚀
