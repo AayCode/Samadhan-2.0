@@ -77,7 +77,7 @@ npm install
 node server.js   # or node student_server.js
 
 👨‍💻 Author
-Aaysha Mansuri
+Team ByteSquad
 Hackathon Participant @ Samadhan 2.0 🚀
 
 ---
